@@ -1,0 +1,30 @@
+[
+  {
+    "id": 12345,
+    "nome": "nao",
+    "cpf": "123",
+    "perfi": null,
+    "agendamento": "02/05/2024"
+  },
+  {
+    "id": 830005,
+    "nome": "carl",
+    "cpf": "123",
+    "perfi": null,
+    "agendamento": null
+  },
+  {
+    "id": 300205,
+    "nome": "Lucas",
+    "cpf": "1234",
+    "perfi": null,
+    "agendamento": null
+  },
+  {
+    "id": 830012205,
+    "nome": "lucas",
+    "cpf": "321",
+    "perfi": null,
+    "agendamento": null
+  }
+]
