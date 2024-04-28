@@ -1,32 +1,30 @@
 [
   {
-    "nome": "lucas",
-    "cpf": "12345689011",
-    "perfil": "agressivo",
-    "agendamento": "dd/mm/yyyy"
+    "id": 12345,
+    "nome": "nao",
+    "cpf": "123",
+    "perfi": null,
+    "agendamento": "02/05/2024"
   },
   {
-    "nome": "lucas",
-    "cpf": "12345689011",
-    "perfil": "agressivo",
-    "agendamento": "dd/mm/yyyy"
+    "id": 830005,
+    "nome": "carl",
+    "cpf": "123",
+    "perfi": null,
+    "agendamento": null
   },
   {
-    "nome": "lucas",
-    "cpf": "12345689011",
-    "perfil": "agressivo",
-    "agendamento": "dd/mm/yyyy"
+    "id": 300205,
+    "nome": "Lucas",
+    "cpf": "1234",
+    "perfi": null,
+    "agendamento": null
   },
   {
+    "id": 830012205,
     "nome": "lucas",
-    "cpf": "12345689011",
-    "perfil": "agressivo",
-    "agendamento": "dd/mm/yyyy"
-  },
-  {
-    "nome": "lucas",
-    "cpf": "12345689011",
-    "perfil": "agressivo",
-    "agendamento": "dd/mm/yyyy"
+    "cpf": "321",
+    "perfi": null,
+    "agendamento": null
   }
 ]
